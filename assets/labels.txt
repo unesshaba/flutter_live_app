@@ -1,0 +1,5 @@
+0 telephone
+1 fatigue
+2 texting
+3 drinking
+4 hair and makeup
